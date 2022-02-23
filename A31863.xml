@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties declaration to all his loving subjects, after his late victory against the rebells on Sunday the 23 of October. 1642</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31863</idno>
+            <idno type="STC">Wing C2222</idno>
+            <idno type="STC">ESTC R13181</idno>
+            <idno type="EEBO-CITATION">12097462</idno>
+            <idno type="OCLC">ocm 12097462</idno>
+            <idno type="VID">53995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53995)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 863:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties declaration to all his loving subjects, after his late victory against the rebells on Sunday the 23 of October. 1642</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 8, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53995:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>HIS MAIESTIES DECLARATION To all His loving <hi>Subjects,</hi> AFTER HIS LATE VICTORY againſt the Rebells <date>on Sunday the 23 <hi>of October.</hi> 
+                  <add>1642</add>
+               </date>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <signed>Charles R.</signed>
+                        </opener>
+                        <p>OVr expreſſe pleaſure is, That this Our Decla<g ref="char:EOLhyphen"/>ration be Publiſhed in all Churches and Chappels within the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> by the Parſons, Vicars or Curates of the ſame.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed by His MAJESTIES Command <hi>AT OXFORD,</hi> By LEONARD LICHFIELD Printer <hi>to the Vniverſity.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:53995:2"/>
+            <!-- PDF PAGE 50 -->
+            <pb n="1" facs="tcp:53995:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <head>HIS MAJESTIES DECLARATION TO ALL HIS LOVING SUBJECTS after His late Victory againſt the Rebells on <date>
+                  <hi>Sunday the</hi> 23d <hi>of October.</hi>
+               </date>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S We muſt wholly attribute the pre<g ref="char:EOLhyphen"/>ſervation of Us and Our Children in the late bloody Battle with the Rebells to the mercy and goodneſſe of Al<g ref="char:EOLhyphen"/>mighty God, who beſt knowing the Ju<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ice of Our cauſe, and the uprightneſſe of Our he<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t to his ſervice, and to the good and wellfare of Our People, would not ſuffer Us &amp; this whole King<g ref="char:EOLhyphen"/>dom to be made a prey to thoſe deſperate Perſons, ſo Wee hold it Our duty ſtill to uſe all poſſible means to remove that jealouſie, and miſunder<g ref="char:EOLhyphen"/>ſtanding fro<g ref="char:cmbAbbrStroke">̄</g> Our good Subjects, which by the In<g ref="char:EOLhyphen"/>duſtry, &amp; ſubtilty of that Malignant Party (which
+<pb n="2" facs="tcp:53995:3"/>
+               <!-- PDF PAGE 51 -->hath brought this miſchief &amp; confuſion upon the Kingdom) hath been infuſed into them, and to that purpoſe (though even thoſe ſcandals are ſuf<g ref="char:EOLhyphen"/>ficiently anſwered by many of Our Declarations and Meſſages, and by Our late Proteſtation made in the head of Our Army, which We ſhall alwaies by the help of God ſtedfaſtly and ſolemly ob<g ref="char:EOLhyphen"/>ſerve) We ſhall take notice of thoſe ſubtile Inſi<g ref="char:EOLhyphen"/>nuations by which at this preſent (according to that obſervation We can make, and Information We can receive) they endeavour to poyſon the hearts and corrupt the Allegiance of ſuch of Our good Subjects who cannot ſo cleerely diſcerne their malice and impoſtures. Firſt, by urging and preſsing that falſe groundleſſe Imputation of Our favouring Popery, and Our imploying many of that Religion now in Our Army. Secondly, by ſe<g ref="char:EOLhyphen"/>ducing Our good people to believe that this Army rayſed and kept for Our neceſſary defence (and without which in all probability the malice of theſe men had before this taken Our life from Us) is to fight againſt, and ſubdue the Parlia<g ref="char:EOLhyphen"/>ment, to take away the Priviledges thereof, and thereby to root out Parliaments, if either of which were true, We ſhould not have the courage with an Army much greater then Ours, to hope for ſucceſſe.</p>
+            <p>
+               <pb n="3" facs="tcp:53995:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 51 -->
+For the firſt, for Our Affection to that Religi<g ref="char:EOLhyphen"/>on, Our continuall practice, Our conſtant Profeſ<g ref="char:EOLhyphen"/>ſion and ſeverall Proteſtations will ſatisfy all the world, againſt which Malice and Treaſon it ſelfe, cannot find the leaſt probable objection, we wiſh from Our heart the zeale and Affection of theſe men to the true Proteſtant Religion were as ap<g ref="char:EOLhyphen"/>parent as Ours. For the imploying men of that Religion in Our preſent ſervice in the Army, whoſoever conſiders the hardneſſe and ſtraights the malice and fury of theſe men have driven Us to, their ſtopping all paſſages and waies that nei<g ref="char:EOLhyphen"/>ther men or mony might come to Us, their de<g ref="char:EOLhyphen"/>claring all ſuch to be Traitors who ſhall aſsiſt Us, their entertaining men of all Countries, all Reli<g ref="char:EOLhyphen"/>gions, to ſerve againſt Us, would not wonder, if We had been very well contented to have recei<g ref="char:EOLhyphen"/>ved the ſervice and Aſsiſtance of any of Our good Subjects who had Loyalty enough (whatſoever their Religion is) to bring them to Our ſuccour. All men know the great number of Papiſts which ſerve in their Army, Commanders, and others, the great Induſtry they have uſed to corrupt the Loy<g ref="char:EOLhyphen"/>alty and Affection of all Our Subjects of that Re<g ref="char:EOLhyphen"/>ligion, the private promiſes &amp; undertakings they have made to them, that if they would aſſiſt them
+<pb n="4" facs="tcp:53995:4"/>
+               <!-- PDF PAGE 52 -->againſt Us, all the Lawes made in their prejudice ſhould be repealed, yet neither the weakneſſe of Our own condition, nor the other Arts uſed a<g ref="char:EOLhyphen"/>gainſt Us, could prevaile with Us to invite thoſe of that Religion to come to Our ſuccour or to re<g ref="char:EOLhyphen"/>call Our Proclamation which forbad them to do ſo. And We are confident (though We know of ſome few whoſe eminent Abilities in command and conduct, and moderate and unfactious diſpo<g ref="char:EOLhyphen"/>ſitions hath moved Us in this great neceſſity to imploy them in this ſervice) that a far greater number of that Religion is in the Army of the Re<g ref="char:EOLhyphen"/>bells, then in Our own. And We doe aſſure Our good Subjects though We ſhall alwaies remem<g ref="char:EOLhyphen"/>ber the particular ſervices which particular men have or ſhall in this exigent of Ours performe to Us with that grace and bounty which becomes a juſt Prince, yet We ſhall be ſo far from ever giving the leaſt countenance or encouragement to that Religion, that We ſhall alwaies uſe Our utmoſt endeavour to ſuppreſſe it, by the execution of thoſe good &amp; wholſome Lawes already in force againſt Papiſts, and concurring in ſuch further remedies as the care and wiſdom of Us and both Houſes of Parliament ſhall think moſt neceſſary for the Advancement of Gods ſervice.</p>
+            <p>
+               <pb n="5" facs="tcp:53995:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 52 -->
+For the ſecond, of Our intention to make War upon Our Parliament and ſo to root out Parlia<g ref="char:EOLhyphen"/>ments. The ſcandall is ſo ſenſeleſſe, when Our Accuſation of a few particular Perſons for parti<g ref="char:EOLhyphen"/>cular crimes notoriouſly committed, adjudged by the known Lawes of the Land to be Treaſon, is evident, that no man can be moved with it, who doth not believe a dozen or twenty factious, ſedi<g ref="char:EOLhyphen"/>tious Perſons, to be the high Court of Parliament, which conſiſts of King, Lords, and Commons; &amp; for the Priviledges of it, whoever doth not believe that to raiſe an Army to murther and depoſe the King, to alter the whole frame of Government &amp; eſtabliſhed Lawes of the Land by extemporary, extravagant Votes &amp; reſolutions of either or both Houſes, to force &amp; compell the Members to ſub<g ref="char:EOLhyphen"/>mit to the faction and Treaſon of a few, and to take away the Liberty and freedom of Conſulta<g ref="char:EOLhyphen"/>tion from them, to be the Priviledges of Parlia<g ref="char:EOLhyphen"/>ment, muſt confeſſe that the Army now raiſed by Us is no leſſe for the vindication and preſervation of Parliament then for Our own neceſſary de<g ref="char:EOLhyphen"/>fence. We have often ſaid, and We ſtill ſay, that We believe many Inconveniences have grown upon this Kingdom by the too long intermiſſion of Parliaments, that Parliaments are the only ne<g ref="char:EOLhyphen"/>ceſſary
+<pb n="6" facs="tcp:53995:5"/>
+               <!-- PDF PAGE 53 -->Soveraign remedies for the growing miſ<g ref="char:EOLhyphen"/>chiefes which time and Accidents have and will alwayes beget in this Kingdom, that without Par<g ref="char:EOLhyphen"/>liaments the happineſſe cannot be laſting to King or People; We have prepared for the frequent aſ<g ref="char:EOLhyphen"/>ſembling of Parliaments, and will be alwayes as carefull of their juſt Priviledges, as of Our Life, Honour, or Intereſt; but that thoſe Priviledges ſhould extend ſo far as hath been lately declared, that it ſhould not be lawfull for Us to apprehend the Lord <hi>S<hi rend="sup">t</hi>. Iohn,</hi> Captain <hi>Windgate,</hi> or Captain <hi>Walton,</hi> when they came to deſtroy Us, becauſe they were Members of Parliament, without the conſent of that Houſe of which they were Mem<g ref="char:EOLhyphen"/>bers, is ſo ridiculous, that there need no more to be ſaid in this Argument then the giving theſe in<g ref="char:EOLhyphen"/>ſtances. In a word, as whoever knowes in what danger Our Perſon was in, on Sunday the 23 of <hi>October,</hi> can never beleive that the Army which gave Us Battle was raiſed for Our defence, &amp; pre<g ref="char:EOLhyphen"/>ſervation; ſo when they conſider how much the Liberty of the Subject is invaded by their Rapine &amp; Impriſoning; and that foure parts at the leaſt of five of the Members of both Houſes are by vio<g ref="char:EOLhyphen"/>lence driven from being preſent in that Councell. That the Book of Common Prayer is rejected,
+<pb n="7" facs="tcp:53995:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 53 -->and no countenance given but to <hi>Anabaptiſts</hi> and <hi>Brownists,</hi> they will eaſily find the pretences of care of the Proteſtant Religion, the Liberty of the Subject, and of the Priviledge of Parliament to be as vain and pretended, as thoſe which refer to the ſafety of Our Perſon, and preſervation of Our Poſterity.</p>
+            <p>We cannot omit the great pains and endea<g ref="char:EOLhyphen"/>vours theſe great pretenders to Peace and Charity have taken, to raiſe an implacable malice and ha<g ref="char:EOLhyphen"/>tred between the Gentry and Commonalty of the Kingdome, by rendring all Perſons of Honour, Courage, and Reputation, odious to the Com<g ref="char:EOLhyphen"/>mon people, under the ſtyle of Cavaliers, inſo<g ref="char:EOLhyphen"/>much as the High-wayes and Villages have not been ſafe for Gentlemen to paſſe through with<g ref="char:EOLhyphen"/>out violence or Affronts, and by infuſing into them that there was an intention by the Commiſ<g ref="char:EOLhyphen"/>ſion of <hi>Array</hi> to take away a part of their Eſtates from them, a ſcandall ſo ſenſeleſſe and impoſsi<g ref="char:EOLhyphen"/>ble, that the contrivers of it well know they might with equall Ingenuity have charged Us with a purpoſe of introducing Turciſme or Judiſme a<g ref="char:EOLhyphen"/>mongſt them, and We hope when Our good Sub<g ref="char:EOLhyphen"/>jects have well weighed the continuall practiſes of theſe men to reject all offers of Treaty, and
+<pb n="8" facs="tcp:53995:6"/>
+               <!-- PDF PAGE 54 -->to ſuppreſſe truth, and to miſlead them by bold and monſtrous falſehoods, they will not think ſuch Arts and wayes to lead to Peace and Unity. And We deſire Our good Subiects of all Condi<g ref="char:EOLhyphen"/>tions to beleive that We hold Our Self bound no leſſe to defend and protect the meaneſt of Our People (who are born equally free, and to whom the Law of the Land is an equall Inheritance) then the greateſt Subject, and that as the wealth and ſtrength of this Kingdome conſiſts in the number and happineſſe of Our People, which is made up of men of all Conditions, ſo We ſhall to the utmoſt of Our power endeavour without diſtinction to give every one of them that Iuſtice and Protection which is due to them, and We doe exhort them all to that charitable and bro<g ref="char:EOLhyphen"/>therly Affection one to wards another, that they may be reconciled in a juſt duty and Loyalty to Us, which may enable Us for that Protection.</p>
+            <p>To conclude, We would have all the world know, that We ſhall never forget the Proteſtati<g ref="char:EOLhyphen"/>ons and Vowes We have made to Allmighty God in Our ſeverall Declarations &amp; Meſſages to both Our Houſes of Parliament. And We are too much a Chriſtian to beleive that We can breake thoſe promiſes, and avoyd the Iuſtice of Heaven.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:53995:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 54 -->
+         </div>
+      </body>
+   </text>
+</TEI>
